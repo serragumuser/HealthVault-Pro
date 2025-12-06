@@ -78,8 +78,7 @@ HealthVault-Pro/
 │   └── package.json
 │
 ├── docs/                    # Documentation
-│   ├── diagrams/           # Architecture diagrams (PNG)
-│   └── thesis/             # Thesis document (FULL_THESIS.md)
+│   └── diagrams/           # Architecture diagrams (PNG)
 │
 ├── DEVELOPMENT_STATUS.md    # Project status
 └── .gitignore
