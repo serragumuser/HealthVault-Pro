@@ -1,0 +1,80 @@
+# Dependencies
+node_modules/
+*/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+*/dist/
+*/build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Testing
+coverage/
+*.coverage
+.nyc_output/
+htmlcov/
+.pytest_cache/
+.coverage
+*.cover
+
+# Database
+*.sqlite
+*.db
+prisma/migrations/dev.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Uploads
+uploads/
+temp-uploads/
+
+# Docker
+.docker/
+
+# Production
+.vercel
+.netlify
